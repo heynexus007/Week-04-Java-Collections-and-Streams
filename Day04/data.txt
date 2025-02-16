@@ -1,0 +1,1 @@
+Create a Java program that reads a file named "data.txt". If the file does not exist, handle the IOExcepStion properly and display a user-friendly message.
